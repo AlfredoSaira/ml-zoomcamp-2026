@@ -6,3 +6,4 @@ My homework for [DataTalksClub ML Zoomcamp](https://github.com/DataTalksClub/mac
 - [03-classification](03-classification/) — Logistic regression for lead scoring (mutual information, one-hot encoding, feature elimination, regularization)
 - [04-evaluation](04-evaluation/) — ROC AUC, precision/recall, F1 and 5-fold cross-validation
 - [05-deployment](05-deployment/) — Serving a frozen model with FastAPI and Docker (uv locked environment)
+- [06-trees](06-trees/) — Decision tree, random forest and XGBoost for car fuel efficiency (hyperparameter tuning, feature importance)
